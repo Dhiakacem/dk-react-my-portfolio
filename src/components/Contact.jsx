@@ -41,7 +41,7 @@ const Contact = () => {
             ></textarea>
             <button
               className=" text-white w-fit 
-                 cursor-pointer  from-gray-500 to-gray-800 bg-gradient-to-r  px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300"
+                 cursor-pointer  from-gray-500 to-gray-800 bg-gradient-to-r   px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300"
             >
               Let's talk
             </button>

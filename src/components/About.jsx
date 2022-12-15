@@ -2,6 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
+    <div>
     <div name="About" className="w-full h-screen
      bg-gradient-to-b from-white to-gray-200 text-gray-700">
 
@@ -29,6 +30,7 @@ const About = () => {
           dolores! Voluptates numquam impedit quia.
         </p>
       </div>
+    </div>
     </div>
   );
 };

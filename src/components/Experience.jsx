@@ -9,6 +9,11 @@ import github from "../assest/github.png";
 import tailwind from "../assest/tailwind.png";
 import react from "../assest/react.png";
 import node from "../assest/node.png";
+import java from "../assest/java.png";
+import Angular from "../assest/angular.png";
+
+
+
 
 const Experience = () => {
   const techs = [
@@ -32,9 +37,9 @@ const Experience = () => {
     },
     {
       id: 4,
-      src: nextjs,
-      title: "Next JS",
-      style: "shadow-gray-500",
+      src: Angular,
+      title: "Angular JS",
+      style: "shadow-red-500",
     },
     {
       id: 5,
@@ -56,10 +61,10 @@ const Experience = () => {
     },
     {
       id: 8,
-      src: graphql,
-      title: "GraphQL",
-      style: "shadow-pink-400",
-    },
+      src: java,
+      title: "java",
+      style: "shadow-orange-400",
+    }, 
     {
       id: 9,
       src: github,

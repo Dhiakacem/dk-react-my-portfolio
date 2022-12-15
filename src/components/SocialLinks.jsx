@@ -11,7 +11,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={20} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/dhia-kacem-70031a220/",
       style: "rounded-tr-md",
     },
     {
@@ -21,7 +21,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={20} />
         </>
       ),
-      href: "https://github.com/theyashpatel",
+      href: "https://github.com/Dhiakacem",
     },
     {
       id: 3,
