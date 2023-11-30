@@ -11,7 +11,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={20} />
         </>
       ),
-      href: "https://www.linkedin.com/in/dhia-kacem-70031a220/",
+      href: "https://www.linkedin.com/in/dhia-kacem/",
       style: "rounded-tr-md",
     },
     {
@@ -30,7 +30,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={20} />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "mailto:dhiaa.kacem@gmail.com",
     },
     {
       id: 4,

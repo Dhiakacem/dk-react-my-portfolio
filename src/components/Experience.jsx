@@ -7,6 +7,7 @@ import nextjs from "../assest/nextjs.png";
 import graphql from "../assest/graphql.png";
 import github from "../assest/github.png";
 import tailwind from "../assest/tailwind.png";
+import flutter from "../assest/flutter.png";
 import react from "../assest/react.png";
 import node from "../assest/node.png";
 import java from "../assest/java.png";
@@ -51,19 +52,19 @@ const Experience = () => {
       id: 6,
       src: node,
       title: "Node JS",
-      style: "shadow-green-700",
+      style: "shadow-green-400",
     },
     {
       id: 7,
-      src: tailwind,
-      title: "Tailwind ",
+      src: flutter,
+      title: "Flutter ",
       style: "shadow-sky-600",
     },
     {
       id: 8,
       src: java,
-      title: "java",
-      style: "shadow-orange-400",
+      title: "Spring Boot",
+      style: "shadow-green-700",
     }, 
     {
       id: 9,

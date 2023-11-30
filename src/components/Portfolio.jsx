@@ -5,6 +5,8 @@ import navbar from "../assest/portfolio/navbar.jpg";
 import reactParallax from "../assest/portfolio/reactParallax.jpg";
 import reactSmooth from "../assest/portfolio/reactSmooth.jpg";
 import reactWeather from "../assest/portfolio/reactWeather.jpg";
+import dashboard from "../assest/portfolio/dashboard.png";
+import carpooling from "../assest/portfolio/carpooling.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -22,16 +24,17 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: navbar,
+      src: dashboard,
     },
     {
       id: 5,
-      src: installNode,
+      src: reactWeather,
     },
     {
       id: 6,
-      src: reactWeather,
+      src: carpooling,
     },
+    
   ];
 
   return (

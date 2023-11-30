@@ -3,34 +3,47 @@ import React from "react";
 const About = () => {
   return (
     <div>
-    <div name="About" className="w-full h-screen
-     bg-gradient-to-b from-white to-gray-200 text-gray-700">
+      <div
+        name="About"
+        className="w-full h-screen
+     bg-gradient-to-b from-white to-gray-200 text-gray-700"
+      >
+        <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+          <div className="pb-8">
+            <p className="text-4xl font-bold inline border-b-4 border-gray-400 ">
+              About
+            </p>
+          </div>
+          <p className="text-xl mt-20 to-gray-700">
+            My name is Dhia Kacem, and I am currently a third-year computer
+            engineering student specializing in software engineering at École
+            Pluridisciplinaire Internationale EPI-Sousse. Passionate about web
+            and mobile development, I am actively seeking a professional
+            opportunity to apply my skills within an innovative company.
+          </p>
+          <br />
+          <p className="text-xl text-gray-700">
+            In my capacity as a junior software engineer, I have dedicated a
+            year to actively contributing to innovative projects, demonstrating
+            my commitment to software design and development. I am proficient in
+            various technologies, including React, Tailwind, Angular, and Spring
+            Boot. My continuous exploration of new technologies within the field
+            keeps me at the forefront of evolving industry trends.
+          </p>
+          <br />
 
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-gray-400 ">About</p>
+          <p className="text-xl text-gray-700">
+            My curiosity extends beyond web development into the captivating
+            realm of mobile application development. I am enthusiastic about the
+            potential offered by technologies such as Flutter and React Native
+            to create versatile and seamless mobile solutions. This excitement
+            stems from my dedication to staying abreast of emerging technologies
+            and my unwavering commitment to crafting innovative solutions,
+            making me a valuable asset for dynamic and forward-thinking
+            projects.
+          </p>
         </div>
-        <p className="text-xl mt-20 to-gray-700">
-         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti perspiciatis molestias cum pariatur soluta distinctio sunt beatae amet, eveniet adipisci illo at animi consectetur tenetur rerum ab porro, cumque ipsa.
-         Magni voluptatum impedit molestias corporis perferendis dicta, similique velit hic assumenda molestiae architecto, natus, in illum sapiente sed alias? Temporibus eum natus eaque eius, error consectetur nulla ad molestias id.
-         Provident odit perferendis quia blanditiis facilis consequuntur laboriosam quasi rem consectetur nesciunt eum omnis illo, eaque reprehenderit, dolore nemo atque qui voluptatem autem repellat ut minus corporis saepe enim? Mollitia?
-        </p>
-        <br />
-        <p className="text-xl text-gray-700">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere
-          deleniti eius quia nobis ipsa molestiae, itaque recusandae iure nulla
-          atque. Quaerat est debitis voluptas asperiores sapiente, rem vitae
-          minima quae. Impedit temporibus laboriosam doloribus cupiditate
-          explicabo accusantium iste velit ab distinctio! Incidunt quibusdam
-          expedita autem odio nisi dicta libero ipsa officia, quos laudantium
-          earum, amet porro! Dolor tempora itaque labore. Deleniti sint
-          accusantium quidem. Minima ratione atque, fuga possimus exercitationem
-          dolor, perferendis libero nisi, voluptas omnis accusantium facilis
-          asperiores maxime ducimus beatae repudiandae odio perspiciatis
-          dolores! Voluptates numquam impedit quia.
-        </p>
       </div>
-    </div>
     </div>
   );
 };
