@@ -1,7 +1,5 @@
 import React from "react";
 import arraydestruct from "../assest/portfolio/arrayDestruct.jpg";
-import installNode from "../assest/portfolio/installNode.jpg";
-import navbar from "../assest/portfolio/navbar.jpg";
 import reactParallax from "../assest/portfolio/reactParallax.jpg";
 import reactSmooth from "../assest/portfolio/reactSmooth.jpg";
 import reactWeather from "../assest/portfolio/reactWeather.jpg";
